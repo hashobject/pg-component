@@ -1,4 +1,4 @@
-(defproject pg-component "0.3.2"
+(defproject pg-component "0.1.0"
   :description "PostgreSQL component library"
   :signing {:gpg-key "Hashobject Ltd <team@hashobject.com>"}
   :url "https://github.com/hashobject/pg-component"
